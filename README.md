@@ -1,9 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I’m @crains 
 
+### 👀 I’m interested in solving problems using Deep Learning and Machine Learning.
+### 💻 Some of my public projects are as hosted here. 
+### 📩 You can reach me at pate.cr@northeastern.edu
 <!--
 **crainspatel/crainspatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+### 👋 Hi, I’m @crains 
+### 👀 I’m interested in solving problems using Deep Learning and Machine Learning.
+### 💻 Some of my public projects are as hosted here. 
+### 📩 You can reach me at pate.cr@northeastern.edu
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
